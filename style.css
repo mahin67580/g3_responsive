@@ -274,6 +274,12 @@ a {
         gap: 1em;
     }
 
+    nav>h1 {
+
+        font-size: 30px;
+        border-bottom: 1px solid black;
+    }
+
     .header_txt>h1 {
         font-size: 40px;
     }
@@ -352,6 +358,7 @@ a {
         width: 80%;
 
     }
+
     .spbtn {
         width: 250px;
         height: 150px;
@@ -366,5 +373,5 @@ a {
         margin-left: 10px;
         border: none;
     }
-    
+
 }
